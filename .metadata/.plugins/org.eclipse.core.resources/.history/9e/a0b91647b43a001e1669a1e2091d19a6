@@ -1,0 +1,5 @@
+package com.springproj.userdepart.repositories;
+
+public class UserRepository {
+
+}
